@@ -1,0 +1,33 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.contenedorCards{
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+
+}
+
+.precioVerde{
+  background-color: green;
+  color: #fff;
+  padding: 2px;
+}
+
+.botonLogin{
+  text-decoration: none;
+  color: #fff;
+}
+
+.contenedorLogin{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
